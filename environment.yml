@@ -8,7 +8,6 @@ dependencies:
   - python-louvain
   - graphviz
   - pygraphviz
-  - scipy
   - scikit-learn
   - seaborne
   - pandas
