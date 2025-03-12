@@ -2,10 +2,13 @@ name: mybinder-env
 channels:
   - conda-forge
 dependencies:
-  - python=3.9
+  - python=3.12
   - networkx
   - matplotlib
   - python-louvain
   - graphviz
   - pygraphviz
   - scipy
+  - scikit-learn
+  - seaborne
+  - pandas
