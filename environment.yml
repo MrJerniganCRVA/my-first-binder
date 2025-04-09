@@ -10,3 +10,7 @@ dependencies:
   - pygraphviz
   - scikit-learn
   - pandas
+  - nltk
+  - pip
+  - pip:
+    - vaderSentiment
