@@ -9,6 +9,3 @@ dependencies:
   - graphviz
   - pygraphviz
   - scikit-learn
-  - numpy
-  - pandas
-  - json
