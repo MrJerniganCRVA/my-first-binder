@@ -11,6 +11,7 @@ dependencies:
   - scikit-learn
   - pandas
   - nltk
+  - gensim
   - tweepy
   - pip
   - pip:
